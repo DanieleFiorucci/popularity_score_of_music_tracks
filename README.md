@@ -1,10 +1,3 @@
-# Machine Learning Group Project: Popularity Score of Music Tracks
-Leonardo Berrettoni - Captain - 759321
-
-Daniele Fiorucci - 761461
-
-Francesco Migliore - 758731
-
 ## 1. Introduction
 
 The present study on which we based our group project on, focuses on the endeavours of a prominent music streaming enterprise aimed at comprehending the underlying factors that contribute to the widespread appeal of songs hosted on their platform.           
