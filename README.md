@@ -275,8 +275,3 @@ Similar to clustering, the popularity of a song is not mathematical. It's not a 
 A possible future direction for this study, could be to check the non-transferability of this type of models. 
 
 We could have cretaed two different datframes, for a couple of artists choosen from the main dataframe, and then check the perfoemnces of the models trained with dataframe 1 on the dataframe 2 and viceversa. What we will expect from this is that when trained on a dataframe the model performs well but then when transferred to antoher dataframe its performnaces will be very bad.
-
-## 6. References
-
-* Code from Prof. Torre's lectures
-* ChatGPT code snippets
