@@ -13,6 +13,11 @@ In the following section will be discussed in the first place a detailed descrip
 
 Secondly, will be elaborated on the method selection concerning the track_genre clustering and the popularity score prediction models based on the track’s audio features.
 
+## 1.1 Data
+
+The dataset can be downloaded from here:
+**https://www.kaggle.com/datasets/yasserh/song-popularity-dataset**
+
 ## 2. Methods
 
 To ensure full reproducibility of our code and the related results, it is essential for everyone reading this report to be able to recreate the environment we used for this project. 
